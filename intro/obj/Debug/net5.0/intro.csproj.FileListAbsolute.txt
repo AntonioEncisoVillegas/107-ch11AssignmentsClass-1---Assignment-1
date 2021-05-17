@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\intro\bin\Debug\net5.0\intro.exe
+C:\Users\Andrea\Desktop\intro\bin\Debug\net5.0\intro.deps.json
+C:\Users\Andrea\Desktop\intro\bin\Debug\net5.0\intro.runtimeconfig.json
+C:\Users\Andrea\Desktop\intro\bin\Debug\net5.0\intro.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\intro\bin\Debug\net5.0\intro.dll
+C:\Users\Andrea\Desktop\intro\bin\Debug\net5.0\ref\intro.dll
+C:\Users\Andrea\Desktop\intro\bin\Debug\net5.0\intro.pdb
+C:\Users\Andrea\Desktop\intro\obj\Debug\net5.0\intro.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\intro\obj\Debug\net5.0\intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\intro\obj\Debug\net5.0\intro.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\intro\obj\Debug\net5.0\intro.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\intro\obj\Debug\net5.0\intro.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\intro\obj\Debug\net5.0\intro.dll
+C:\Users\Andrea\Desktop\intro\obj\Debug\net5.0\ref\intro.dll
+C:\Users\Andrea\Desktop\intro\obj\Debug\net5.0\intro.pdb
+C:\Users\Andrea\Desktop\intro\obj\Debug\net5.0\intro.genruntimeconfig.cache
